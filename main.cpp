@@ -27,8 +27,8 @@ int main() {
   std::cout << "Pop: " << st2.pop() << std::endl;
   //////////////////////
   std::cout << std::endl;
-  //////////////////////
-//   MyStack<int> st3(1);
-//   std::cout << "Get: " << st3.get() << std::endl;
+  ////////////////////
+  MyStack<int> st3(1);
+  std::cout << "Get: " << st3.get() << std::endl;
   return 0;
 }
