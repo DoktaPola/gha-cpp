@@ -40,3 +40,4 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           document: main.exe
           message: DoktaPola
+
